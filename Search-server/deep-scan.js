@@ -1,4 +1,5 @@
 /** @param {NS} ns */
+// RAM:3.80GB
 export async function main(ns) {
   // Sets (to prevent duplication) and arrays to store scan results
   const visited = new Set();
