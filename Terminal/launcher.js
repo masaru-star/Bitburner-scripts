@@ -1,4 +1,5 @@
 /** @param {NS} ns */
+// RAM:3.15GB
 export async function main(ns) {
   // 1. Settings: Script name and target server to run
   const scriptName = ns.args[0]||"hack.js"; // The name of the script you want to run
