@@ -1,4 +1,5 @@
 /** @param {NS} ns */
+// RAM:2.00GB
 export async function main(ns) {
   const targetName = ns.args[0]||"hack.js"; // If no argument is given, the default name
   const servers = new Set(["home"]);
