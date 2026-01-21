@@ -1,4 +1,5 @@
 /** @param {NS} ns **/
+// RAM:1.80GB
 export async function main(ns) {
   const target = ns.args[0];
   if (!target) {
