@@ -2,7 +2,7 @@
 Here is the script I used in [Bitburner](https://bitburner-official.github.io/).
 
 ## Contents
-| ファイル名 | 役割 | 必要RAM |
+| ファイル名 | 役割 | 要件 |
 | :--- | :--- | :--- |
 | `quick-script.js` | 基礎攻略で使用するスクリプトを作成するもの。 | 1.60GB |
 | `Overview/hack-XPmonitor.js` | 1秒毎のHack経験値獲得量をOverviewに表示します。 | 6.10GB |
